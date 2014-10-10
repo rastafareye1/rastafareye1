@@ -16,7 +16,11 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111111;
-  background-color: #fdfdfd; }
+  background-color: #fdfdfd;
+  background-image: url('/Site-Concept.jpg');
+  width: 15000px;
+  height: 20000px;
+}
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm
